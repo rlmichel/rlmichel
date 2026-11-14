@@ -3,6 +3,7 @@
 # Olá, eu sou o Michel (rlmichel)
 
 Transformo ideias em protótipos funcionais e em produtos reais. Gosto de trabalhar com visualização de dados, automação e interfaces limpas.
+
 Disponível para oportunidades remotas (global).
 
 **Idiomas:** Português-BR (nativo) • Inglês (fluente) • Espanhol (intermediário) • Russo (leitura técnica, conversação básica)
