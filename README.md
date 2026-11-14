@@ -3,6 +3,7 @@
 # Hi, I'm Michel (rlmichel)
 
 I turn ideas into functional prototypes and real products. I enjoy working with data visualization, automation, and clean interfaces.
+
 Available for remote opportunities (global).
 
 **Languages:** Portuguese-BR (native) • English (fluent) • Spanish (intermediate) • Russian (technical reading, basic conversation)
